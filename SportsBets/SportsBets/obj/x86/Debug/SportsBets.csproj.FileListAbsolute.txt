@@ -1,0 +1,34 @@
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\bin\Debug\SportsBets.exe
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\bin\Debug\SportsBets.pdb
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\obj\x86\Debug\SportsBets.Form1.resources
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\obj\x86\Debug\SportsBets.Properties.Resources.resources
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\obj\x86\Debug\SportsBets.exe
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\obj\x86\Debug\SportsBets.pdb
+C:\Users\Dario\AppData\Local\Temporary Projects\SportsBets\obj\x86\Debug\SportsBets.FormaNovTim.resources
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\obj\x86\Debug\SportsBets.exe
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\obj\x86\Debug\SportsBets.pdb
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\bin\Debug\SportsBets.exe
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\bin\Debug\SportsBets.pdb
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Form1.resources
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\obj\x86\Debug\SportsBets.FormaNovTim.resources
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Properties.Resources.resources
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dario\documents\visual studio 2010\Projects\SportsBets\SportsBets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.exe
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.pdb
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\bin\Debug\SportsBets.exe
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\bin\Debug\SportsBets.pdb
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Form1.resources
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.FormaNovTim.resources
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Properties.Resources.resources
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.exe
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.pdb
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.exe
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Debug\SportsBets.pdb

@@ -1,0 +1,31 @@
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\bin\Release\SportsBets.exe
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\bin\Release\SportsBets.pdb
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.Form1.resources
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.FormaNovTim.resources
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.Properties.Resources.resources
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.exe
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.pdb
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.exe
+C:\Users\Nikola\Desktop\FINKI 2011-2012\IV Семестар\5. Визуелно програмирање\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.pdb
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\bin\Release\SportsBets.exe
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\bin\Release\SportsBets.pdb
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.Form1.resources
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.FormaNovTim.resources
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.Properties.Resources.resources
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.csproj.GenerateResource.Cache
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.exe
+D:\FEIT\IV godina\New folder\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.pdb
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.exe
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.pdb
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\bin\Release\SportsBets.exe
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\bin\Release\SportsBets.pdb
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.csprojResolveAssemblyReference.cache
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.Form1.resources
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.FormaNovTim.resources
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.Properties.Resources.resources
+D:\FEIT\IV godina\programiranje\vizuelno\Аудиториски\Задачи\SportsBets\SportsBets\SportsBets\obj\x86\Release\SportsBets.csproj.GenerateResource.Cache
+G:\proekti\SportsBets\SportsBets\obj\x86\Release\SportsBets.exe
+G:\proekti\SportsBets\SportsBets\obj\x86\Release\SportsBets.pdb

@@ -1,0 +1,27 @@
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.pdb
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.Form1.resources
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.Properties.Resources.resources
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.exe
+E:\FINKI\VP\Source\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.pdb
+D:\FINKI\IV Семестар\Визуелно програмирање\Лабараториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.exe
+D:\FINKI\IV Семестар\Визуелно програмирање\Лабараториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.pdb
+D:\FEIT\IV godina\New folder\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.exe
+D:\FEIT\IV godina\New folder\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.pdb
+D:\FEIT\IV godina\New folder\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe
+D:\FEIT\IV godina\New folder\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.pdb
+D:\FEIT\IV godina\New folder\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.csprojResolveAssemblyReference.cache
+D:\FEIT\IV godina\New folder\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.Form1.resources
+D:\FEIT\IV godina\New folder\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.Properties.Resources.resources
+D:\FEIT\IV godina\New folder\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.csproj.GenerateResource.Cache
+D:\FEIT\IV godina\programiranje\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.exe
+D:\FEIT\IV godina\programiranje\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.pdb
+D:\FEIT\IV godina\programiranje\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.exe
+D:\FEIT\IV godina\programiranje\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\bin\Debug\PizzaOrder.pdb
+D:\FEIT\IV godina\programiranje\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.csprojResolveAssemblyReference.cache
+D:\FEIT\IV godina\programiranje\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.Form1.resources
+D:\FEIT\IV godina\programiranje\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.Properties.Resources.resources
+D:\FEIT\IV godina\programiranje\vizuelno\Лабoраториски\Lab3Resenie\PizzaOrder\PizzaOrder\obj\x86\Debug\PizzaOrder.csproj.GenerateResource.Cache
